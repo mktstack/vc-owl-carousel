@@ -1,0 +1,6 @@
+{
+    "name": "mk-packages/vc-owl-carousel",
+    "type": "wordpress-plugin",
+    "license": "private",
+    "description": "VC Owl Carousel"
+}
